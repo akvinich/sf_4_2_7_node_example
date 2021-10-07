@@ -1,0 +1,16 @@
+{
+  "name": "sf-4-2-7-node-example",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "description": "ex 4_2_7",
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "Vitali",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
